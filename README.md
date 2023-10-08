@@ -5,8 +5,6 @@
 Sou atualmente estudante de Análise e Desenvolvimento de Software pela USF. 
 Desenhista nas horas vagas e amante de músicas MTV. 
 
-_Que brasileiro(a) nunca cantou “Malandragem” da Cássia Eller?_
-
 Comecei nesse mundo de códigos por intermédio de um amigo que me apresentou 
 ao meu primeiro 'Hello Word'. 
 
