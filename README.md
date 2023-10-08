@@ -1,16 +1,35 @@
-### Hi there 👋
+## Olá visitante! 
 
-<!--
-**AnaPS1618/AnaPS1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Ana Paula. 
 
-Here are some ideas to get you started:
+Sou atualmente estudante de Análise e Desenvolvimento de Software pela USF. 
+Desenhista nas horas vagas e amante de músicas MTV. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Que brasileiro(a) nunca cantou “Malandragem” da Cássia Eller?_
+
+Comecei nesse mundo de códigos por intermédio de um amigo que me apresentou 
+ao meu primeiro 'Hello Word'. 
+
+Desde então... Se tornou um objetivo e um vicio. Já foram muitas horas sem dormir
+para encontrar aquele erro que não estava fazendo o código rodar corretamente, e 
+mais algumas horas estudando lógica e arquitetura. 
+
+## No momento da criação desse README, estou focando o aprendizado em::.. 
+ 
+ 
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="30"/> Java Script 
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30" /> HTML 
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30" /> CSS
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30" /> NODE.js
+
+### Aprendendo tambem alêm do desenvolvimento de software:
+
+- **CLOUDE AWS** :partly_sunny: :partly_sunny:
+- **CYBERSEGURANÇA** :closed_lock_with_key:	:computer:
+
+## Contatos e redes sociais: 
+<div>
+ <a href = "mailto:anasouza673@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/ana-souza-b7a9a4263" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
