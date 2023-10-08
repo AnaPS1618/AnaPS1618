@@ -24,7 +24,7 @@ mais algumas horas estudando lógica e arquitetura.
 
 ### Aprendendo tambem alêm do desenvolvimento de software:
 
-- **CLOUDE AWS** :partly_sunny: :partly_sunny:
+- **AWS** :partly_sunny: :partly_sunny:
 - **CYBERSEGURANÇA** :closed_lock_with_key:	:computer:
 
 ## Contatos e redes sociais: 
