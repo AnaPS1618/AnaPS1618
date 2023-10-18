@@ -23,7 +23,7 @@ mais algumas horas estudando lógica e arquitetura.
 
 ### Aprendendo tambem alêm do desenvolvimento de software:
 
-- <img width="30" height="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> **AWS** :partly_sunny: :partly_sunny:
+- <img width="30" height="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> 
 - **CYBERSEGURANÇA** :closed_lock_with_key:	:computer:
 
 ## Contatos e redes sociais: 
