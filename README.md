@@ -23,7 +23,7 @@ mais algumas horas estudando lógica e arquitetura.
 
 ### Aprendendo tambem alêm do desenvolvimento de software:
 
-- **AWS** :partly_sunny: :partly_sunny:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30"/> **AWS** :partly_sunny: :partly_sunny:
 - **CYBERSEGURANÇA** :closed_lock_with_key:	:computer:
 
 ## Contatos e redes sociais: 
