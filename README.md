@@ -24,7 +24,7 @@ mais algumas horas estudando lógica e arquitetura.
 ### Aprendendo tambem alêm do desenvolvimento de software:
 
 - <img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> 
-- <img width="50" height="50" src="https://img.icons8.com/color-glass/48/cloud-binary-code.png" alt="cloud-binary-code"/> **CYBERSEGURANÇA** :closed_lock_with_key:	:computer:
+- **CYBERSEGURANÇA** <img width="50" height="50" src="https://img.icons8.com/color-glass/48/cloud-binary-code.png" alt="cloud-binary-code"/>
 
 ## Contatos e redes sociais: 
 <div>
