@@ -16,8 +16,9 @@ mas tambem mantenho o aprendizado constante em outras aréas.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80"/>
 
-
-### Aprendendo tambem alêm do desenvolvimento de software:
+<br/>
+<br/>
+## Aprendendo tambem alêm do desenvolvimento de software:
 **CLOUD**
 <br/>
 <img style='background-color=white' width="100" height="100" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> 
