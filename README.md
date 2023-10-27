@@ -18,7 +18,9 @@ mas tambem mantenho o aprendizado constante em outras aréas.
 
 <br/>
 <br/>
-## Aprendendo tambem alêm do desenvolvimento de software:
+
+## Aprendendo tambem alêm do desenvolvimento de software::.
+
 **CLOUD**
 <br/>
 <img style='background-color=white' width="100" height="100" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> 
