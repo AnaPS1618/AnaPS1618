@@ -20,8 +20,9 @@ mais algumas horas estudando lógica e arquitetura.
 
 ### Aprendendo tambem alêm do desenvolvimento de software:
 
-- <img width="80" height="80" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> 
+- <img style='background-color=white' width="80" height="80" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> 
 <img src="pngwing.com.png" width="200" height="100"/>
+
 **CYBERSEGURANÇA**
 
 ## Contatos e redes sociais: 
