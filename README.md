@@ -11,7 +11,7 @@ ao meu primeiro 'Hello Word'.
 Desde então... Se tornou um objetivo e um vicio. Venho focando no desenvolvimento de software como base principal do meu aprendizado, 
 mas tambem mantenho o aprendizado constante em outras aréas. 
 
-## No momento da criação desse README, os conhecimentos principais de linguagens, framework e database::.. 
+## No momento da criação desse README, os conhecimentos principais de linguagens, framework e database ao qual detenho e estou em estudos::.. 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80"/>
