@@ -8,9 +8,8 @@ Desenhista nas horas vagas e amante de músicas MTV.
 Comecei nesse mundo de códigos por intermédio de um amigo que me apresentou 
 ao meu primeiro 'Hello Word'. 
 
-Desde então... Se tornou um objetivo e um vicio. Já foram muitas horas sem dormir
-para encontrar aquele erro que não estava fazendo o código rodar corretamente, e 
-mais algumas horas estudando lógica e arquitetura. 
+Desde então... Se tornou um objetivo e um vicio. Venho focando no desenvolvimento de software como base principal do meu aprendizado, 
+mas tambem mantenho o aprendizado constante em outras aréas. 
 
 ## No momento da criação desse README, estou focando o aprendizado em::.. 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>
