@@ -1,4 +1,4 @@
-## alert('Olá visitante!)
+## alert('Olá visitante!')
 
 ### Me chamo Ana Paula. 
 
