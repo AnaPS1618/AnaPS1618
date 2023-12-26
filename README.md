@@ -2,16 +2,12 @@
 
 ### Me chamo Ana Paula. 
 
-Sou atualmente estudante de Análise e Desenvolvimento de Software pela USF. 
+Atualmente estudante de Análise e Desenvolvimento de Software pela USF. 
 Desenhista nas horas vagas e amante de músicas MTV. 
 
-Comecei nesse mundo de códigos por intermédio de um amigo que me apresentou 
-ao meu primeiro 'Hello Word'. 
+Focando em desenvolvimento de software principalmente com o back-end, mas obtendo conhecimentos em outros áreas.
 
-Desde então... Se tornou um objetivo e um vicio. Venho focando no desenvolvimento de software como base principal do meu aprendizado, 
-mas tambem mantenho o aprendizado constante em outras aréas. 
-
-## No momento da criação desse README, os conhecimentos principais de linguagens, framework e database ao qual detenho e estou em estudos::.. 
+## Possuo conhecimento em::..
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80"/>
@@ -19,7 +15,7 @@ mas tambem mantenho o aprendizado constante em outras aréas.
 <br/>
 <br/>
 
-## Aprendendo tambem alêm do desenvolvimento de software::.
+## Aprendendo tambem::.
 
 **CLOUD**
 <br/>
