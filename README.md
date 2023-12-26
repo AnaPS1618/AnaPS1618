@@ -1,9 +1,12 @@
-## Olá visitante! 
+## alert('Olá visitante!)
 
 ### Me chamo Ana Paula. 
 
-Atualmente estudante de Análise e Desenvolvimento de Software pela USF. 
-Desenhista nas horas vagas e amante de músicas MTV. 
+Desenvolvedora back-end.
+
+Sobre:
+-Adoradora de musicas MTV 
+-fã de filmes de terror. 
 
 Focando em desenvolvimento de software principalmente com o back-end, mas obtendo conhecimentos em outros áreas.
 
