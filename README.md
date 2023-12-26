@@ -4,9 +4,9 @@
 
 Desenvolvedora back-end.
 
-Sobre:
--Adoradora de musicas MTV 
--fã de filmes de terror. 
+Sobre mim:
+- Adoradora de musicas MTV 
+- fã de filmes de terror. 
 
 Focando em desenvolvimento de software principalmente com o back-end, mas obtendo conhecimentos em outros áreas.
 
