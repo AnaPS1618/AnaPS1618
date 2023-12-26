@@ -34,7 +34,7 @@ Sobre mim:
 </div>
 
 <div>
-<a href="https://github.com/AnaPS1618/AnaPS1618">
+<a href="https://github.com/AnaPS1618">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPS1618&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaPS1618&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
