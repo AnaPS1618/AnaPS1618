@@ -2,7 +2,7 @@
 
 ### Me chamo Ana Paula. 
 
-- Desenvolvedora[front-end| back-end| full-stack].
+- Desenvolvedora[front-end| back-end].
 
 Sobre mim:
 - Adoradora de musicas MTV 
